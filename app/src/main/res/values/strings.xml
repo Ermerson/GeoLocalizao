@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoLocalização</string>
+    <string name="labelContinente">Continente</string>
+    <string name="btnListar">Listar</string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Américas</item>
+        <item>Asia</item>
+        <item>Europa</item>
+        <item>Oceania</item>
+    </string-array>
+</resources>
